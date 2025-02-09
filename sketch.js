@@ -1,6 +1,6 @@
 let bodies = [];
 function setup() {
-  createCanvas(700, 700);
+  createCanvas(windowWidth, windowHeight);
   solarSystem();
 }
 
